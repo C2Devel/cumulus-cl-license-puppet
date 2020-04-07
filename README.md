@@ -1,3 +1,9 @@
+This is a fork of Cumulus Network repo (http://github.com/cumulusNetworks/cumulus-cl-license-puppet).
+
+Actual puppet forge page: https://forge.puppet.com/c2devel/cumulus_license
+
+Feel free to send patches to http://github.com/c2devel/cumulus-cl-license-puppet/
+
 # cumulus_license
 
 #### Table of Contents
